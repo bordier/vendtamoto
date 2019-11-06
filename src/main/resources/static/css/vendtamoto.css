@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+
+
+
+
+body{background-color:#c4ffb2;
+cursor:crosshair;
+background-image: url("/Files/moto.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+
+
+body .img{opacity: 50% ;
+
+
+	}
+
+
+
+.titre{
+text-align:center;
+width: 200px;
+height:20px;
+background-color : #b7e3cc;	
+color:black;
+	}
+	
+h1 { color: white; }
+h2 { color: white; }
+
+li { color: white; }

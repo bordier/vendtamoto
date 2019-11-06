@@ -1,0 +1,55 @@
+#searchbar {
+	position: relative;
+	width: 1040px;
+	height: auto;
+}
+
+.formulaire {
+	display: inline-block;
+}
+
+.formulaire .champ {
+	width: 600px;
+	height: 35px;
+}
+
+.formulaire .bouton {
+	background-image: url(images/searchbar_button.png);
+	background-repeat: no-repeat;
+	width: 35px;
+	height: 35px;
+	padding: 0;
+}
+
+body{background-color:#c4ffb2;
+cursor:crosshair;
+background-image: url("/Files/moto.jpg");
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+}
+
+h1 { color: white; }
+h3 { color: white; }
+td { color: white; }
+
+
+
+
+
+table{
+	margin-top:50px;
+  border-collapse: collapse
+}
+
+td{
+  border: 6px solid white;
+  padding: 10px;
+  color:#00ff10;
+  font-size: 35px;	
+}
+
+td .a {
+
+	
+}
